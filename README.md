@@ -31,5 +31,5 @@ The element of interactivity comes into play when the user can choose to slide a
 ![image](https://user-images.githubusercontent.com/25347517/70573378-b1a8f980-1b56-11ea-96cd-1506b78be810.png)
 
 ### References:
-The Gensim similarity ranking has been implemented using this approach:  https://radimrehurek.com/gensim/auto_examples/core/run_similarity_queries.html
+The Gensim similarity ranking has been implemented using this approach:https://radimrehurek.com/gensim/auto_examples/core/run_similarity_queries.html 
 This is the news API that we used to scrape the web for relevant news articles: https://newsapi.org/
