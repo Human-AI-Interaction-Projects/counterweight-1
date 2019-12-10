@@ -16,4 +16,4 @@ The element of interactivity comes into play when the user can choose to slide a
 
 ![image](https://user-images.githubusercontent.com/25347517/70573378-b1a8f980-1b56-11ea-96cd-1506b78be810.png)
 
-![Alt Text](https://gifs.com/gif/couterweight-demo-jZglkY)
+![DEMO!](https://j.gifs.com/jZglkY.gif)
