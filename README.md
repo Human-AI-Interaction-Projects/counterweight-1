@@ -10,7 +10,6 @@ Based on an article the user is currently reading, Counterweight can present oth
 ![image](https://user-images.githubusercontent.com/25347517/70572654-0fd4dd00-1b55-11ea-87cc-4736be87fc02.png)
 The extension works as show: 
 
-![DEMO!](https://j.gifs.com/jZglkY.gif)
 ![DEMO!](https://media.giphy.com/media/KFhQn4LjcRnlICXM73/giphy.gif)
 
 The approach is detailed below: 
