@@ -11,6 +11,7 @@ Based on an article the user is currently reading, Counterweight can present oth
 The extension works as show: 
 
 ![DEMO!](https://j.gifs.com/jZglkY.gif)
+![DEMO!](https://media.giphy.com/media/KFhQn4LjcRnlICXM73/giphy.gif)
 
 The approach is detailed below: 
 
