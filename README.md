@@ -15,3 +15,5 @@ The ranked articles are then categorized and displayed across of a spectrum of n
 The element of interactivity comes into play when the user can choose to slide along the bias spectrum to sort the results by bias or just get a plain search engine ~esque ranked result for relevant articles.
 
 ![image](https://user-images.githubusercontent.com/25347517/70573378-b1a8f980-1b56-11ea-96cd-1506b78be810.png)
+
+![Alt Text](https://gifs.com/gif/couterweight-demo-jZglkY)
